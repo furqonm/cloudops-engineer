@@ -4,7 +4,6 @@ _[DISCLAIMER] The links and materials provided here are for supplementary study 
 ---
 ## Exam Preparation Materials
 ### 1. Course
-- [AWS Certified SysOps Administrator - Associate Exam](https://forms.gle/5B5xq5xZ5fjkbjBJ9)
 - [AWS CloudOps Engineer Associate (SOA-C03) Certification Course – Pass the Exam!](https://www.youtube.com/watch?v=5JTBS09e7ew)
 - [AWS Certified CloudOps Engineer Associate SOA-C03 2026](https://www.udemy.com/course/aws-certified-cloudops-associate/) **Paid**
 
@@ -16,6 +15,7 @@ _[DISCLAIMER] The links and materials provided here are for supplementary study 
     > This guide discusses the 5 domains/sections that will be covered in the exam. You can use it to identify any points you don't understand for further study.
 
 ### 3. Exam Readiness
+- [AWS Certified SysOps Administrator - Associate Exam](https://forms.gle/5B5xq5xZ5fjkbjBJ9)
 - [Official Practice Question Set: AWS Certified CloudOps Engineer - Associate (SOA-C03 - English)](https://skillbuilder.aws/learn/P9D6ZEQPZD/official-practice-question-set-aws-certified--cloudops-engineer--associate-soac03--english)
 - [AWS Certified CloudOps Engineer Associate SOA-C03 2026](https://www.udemy.com/course/aws-certified-cloudops-associate) **Paid**
 
