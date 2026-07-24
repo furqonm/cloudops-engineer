@@ -17,7 +17,7 @@ _[DISCLAIMER] The links and materials provided here are for supplementary study 
 ### 3. Exam Readiness
 - [AWS Certified SysOps Administrator - Associate Exam](https://forms.gle/5B5xq5xZ5fjkbjBJ9)
 - [Official Practice Question Set: AWS Certified CloudOps Engineer - Associate (SOA-C03 - English)](https://skillbuilder.aws/learn/P9D6ZEQPZD/official-practice-question-set-aws-certified--cloudops-engineer--associate-soac03--english)
-- [Udemy: AWS Certified CloudOps Engineer Associate SOA-C03 2026](https://www.udemy.com/course/aws-certified-cloudops-associate) **Paid**
+- [Udemy: Practice Exams: AWS Certified CloudOps Engineer Associate](https://www.udemy.com/course/practice-exams-aws-certified-cloudops-engineer/) **Paid**
 - [Examtopics: Amazon AWS Certified CloudOps Engineer - Associate SOA-C03 Actual Exam Questions](https://www.examtopics.com/exams/amazon/aws-certified-cloudops-engineer-associate-soa-c03/view/) **Paid**
 
     > Multiple sample questions to help you get familiar with the question format for the exam.
